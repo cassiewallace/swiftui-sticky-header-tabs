@@ -1,4 +1,4 @@
-# swiftui-sticky-header-tabs
+# SwiftUI Sticky Header Tabs
 
 A SwiftUI + UIKit component for building **Twitter/LinkedIn-style profile screens** with a **sticky (pinned) collapsing header**, a smooth **animated tab bar with underline indicator**, and **horizontally-paged, swipeable content**.
 
